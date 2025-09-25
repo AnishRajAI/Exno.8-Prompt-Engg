@@ -1,4 +1,4 @@
-**# Exno.8-Prompt-Engg
+# Exno.8-Prompt-Engg
 # Date:
 # Register no:
 # Aim: 
