@@ -1,56 +1,66 @@
-# Exno.8-Prompt-Engg
-# Date:
-# Register no:
-# Aim: 
-You possess a portrait in classic realism. How would you prompt the AI to reproduce it as a stylized digital anime version, maintaining the character’s expression and pose?
+# Exp 8: AI-Powered Art Style Transformation  
 
-# Algorithm: 
+### Name: ANISH RAJ P
+### Reg. No.: 212222230010
 
-## 1.Input Image: 
-Provide the original realistic portrait.
+---
 
-## 2.Define Constraints: 
-Maintain pose, facial expression, and identity.
+## Aim  
+To generate a stylized digital anime version of a given classic realism portrait using AI, while preserving the character’s original expression and pose.  
 
-## 3.Prompt Construction:
+---
 
-Subject → "portrait of [character]"
+## Procedure  
+1. Select a portrait image in **classic realism style** as the input.  
+2. Write a prompt describing how the portrait should be transformed into an anime style.  
+3. Ensure the prompt specifies:  
+   - Anime style (digital anime, cel-shaded, vibrant, etc.).  
+   - Retain character’s **expression and pose**.  
+   - Details like smooth line art, stylized coloring, or background preferences.  
+4. Example prompt:  
+   > *“Convert this classic realism portrait into a vibrant anime-style digital artwork. Keep the character’s original facial expression and pose intact, while applying anime-style shading, big expressive eyes, and stylized hair highlights.”*  
+5. Input the portrait and crafted prompt into the AI image-generation tool.  
+6. Generate and review the output.  
+7. Refine the prompt if needed to adjust colors, proportions, or artistic effects.  
 
-Style → "anime, digital art, clean line art, vibrant colors"
+---
 
-Constraints → "same expression, same pose, retain hairstyle"
+## Instructions  
+- Use **style-specific keywords** (anime, manga, cel-shaded, vibrant colors).  
+- Mention what should **not change** (pose, expression, overall likeness).  
+- Use iterative prompting for better results.  
+- If required, add artist inspiration styles (e.g., *“inspired by Makoto Shinkai”* or *“Studio Ghibli-style”*).  
 
-Negative → "no realism, no distortion, no extra limbs"
+---
 
-## 4.Iterative Refinement: 
-Start with a simple prompt → add style refinements → enforce constraints with negatives.
+## Sample Input–Output Prompt Table  
 
-## 5.Generate Output: 
-Use text-to-image or image-to-image AI models (e.g., Stable Diffusion, MidJourney, DALL·E).
+| Input (Classic Realism Portrait) | Prompt | Output (Anime Version) |
+|----------------------------------|--------|-------------------------|
+| Realism portrait of a young woman in formal attire, neutral background | *“Recreate this portrait in anime style with smooth digital shading, large expressive anime eyes, and stylized hair. Keep the original expression and pose exactly the same.”* | Anime-stylized digital portrait with vibrant colors, anime facial proportions, preserved pose and emotion |  
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/4b1edd89-d21a-4d4f-ab30-ae4dff28485f" />
 
-## 6.Compare Outputs: 
-Observe fidelity to pose/expression and anime stylization quality.
 
-# Sample Prompts & Outputs
-### Prompt 1 – Simple
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/f96e2cb6-0d44-49c3-a680-2b82f5f99258" />
 
-"Anime version of this portrait, keeping the same pose and facial expression."
-Output → Basic anime filter applied, recognizable but generic.
 
-### Prompt 2 – Detailed Style
 
-"Transform this portrait into a detailed anime illustration, same pose and expression. Retain hairstyle and clothing, adapt features into anime proportions with large expressive eyes and smooth shading. Vibrant colors and glowing background."
-Output → Clear anime features, expression preserved, artistic improvements visible.
+| Realism portrait of an older gentleman with a gentle smile, dark background | *“Transform this portrait into an anime style while preserving his gentle smile and relaxed pose. Use soft anime shading, defined facial lines, and subtle highlights in the hair, with a simple dark-toned background.”* | Anime-style portrait of the gentleman with his smile intact, smoother shading, stylized hair, and preserved pose |  
 
-### Prompt 3 – Advanced with Negatives
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/2e0f1d8e-9e96-422d-a6b1-41d40eb8ee44" />
 
-"Recreate this realistic portrait in modern digital anime style. Keep identical pose, facial expression, hairstyle, and outfit. Use clean line art, cel-shading, soft gradients, glowing pastel background. Avoid realism, distortions, extra limbs, or changing the expression."
-Output → Highly stylized anime artwork, faithful to reference identity and pose, with professional finish.
 
-# Diagram:
+| Realism portrait of a young boy with curious eyes, light background | *“Render this young boy's portrait in a cute anime style. Preserve his curious expression and slightly upward gaze. Give him large, innocent anime eyes and softly textured hair. The background should be a bright, stylized outdoor setting.”* | Cute anime-style portrait of a boy, keeping his curious expression and pose, with large eyes and a bright, stylized background |  
 
- <img width="1280" height="1006" alt="image" src="https://github.com/user-attachments/assets/7150e64e-2a8b-4307-98e2-4c2f77aa0ae9" />
- 
-# Result:
-By refining prompts step by step, the AI was successfully guided to generate an anime-styled version of the portrait, preserving expression and pose while applying stylistic elements like anime line art, expressive eyes, and vibrant shading. This exploration shows that structured prompt engineering + iterative refinement yields more controlled and consistent results.
-**
+<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/f96e2cb6-0d44-49c3-a680-2b82f5f99258" />
+
+
+
+---
+
+## Conclusion  
+By carefully crafting prompts, a classic realism portrait can be successfully converted into a digital anime-style artwork, maintaining the subject’s **pose and expression** while transforming the overall aesthetic. 
+This experiment demonstrated the effective use of AI to convert a classic realism portrait into a vibrant anime-style artwork while preserving the subject’s pose, facial expression, and overall likeness. By crafting precise prompts with style-specific keywords and iteratively refining them, the AI generated smooth digital shading, expressive eyes, and stylized details that matched the intended aesthetic. The process highlights the importance of prompt engineering in achieving accurate, creative results. Overall, this experiment shows that AI can be a powerful tool for digital art transformation, enabling quick, high-quality stylistic changes and expanding possibilities for artists, designers, and educational applications.
+
+## Result 
+Thus prompt is executed successfully.The AI tool successfully converted classic realism portraits into vibrant anime-style artworks while preserving each subject’s pose and expression. Carefully crafted prompts and iterative refinements produced smooth shading, expressive eyes, and accurate likeness. This demonstrates that effective prompt engineering enables precise, creative AI-driven art transformations quickly and efficiently.
